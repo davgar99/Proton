@@ -6,11 +6,11 @@ about: Game compatibility issues.
 
 # Compatibility Report
 - Name of the game with compatibility issues:
-- Steam AppID of the game:
+- Steam App ID of the game:
 
 ## System Information
 - GPU: <!-- e.g. RX 580 or GTX 970 -->
-- Video driver version: <!-- e.g. Mesa 18.2 or nvidia 396.54 -->
+- Video driver version: <!-- e.g. Mesa 18.2 or NVIDIA 396.54 -->
 - Kernel version: <!-- e.g. 4.17 -->
 - Link to full system information report as [Gist](https://gist.github.com/):
 - Proton version:
@@ -30,8 +30,8 @@ attach the generated $HOME/steam-$APPID.log to this issue report as a file.
 
 
 <!--
-1. You can find the Steam AppID in the URL of the shop page of the game.
-   e.g. for `The Witcher 3: Wild Hunt` the AppID is `292030`.
+1. You can find the Steam App ID in the URL of the shop page of the game.
+   e.g. for `The Witcher 3: Wild Hunt` the App ID is `292030`.
 2. You can find your driver and Linux version, as well as your graphics
    processor's name in the system information report of Steam.
 3. You can retrieve a full system information report by clicking
